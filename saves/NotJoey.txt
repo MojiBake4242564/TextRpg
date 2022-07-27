@@ -1,0 +1,10 @@
+Health: 100
+Attack: 10
+Defense: 10
+Damage: 50
+Gold: 0
+Current experience: 101
+Level: 1
+Inventory: 
+	
+, Health potion, Broad sword

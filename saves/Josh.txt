@@ -1,0 +1,9 @@
+Health: 1000
+Attack: 10
+Defense: 10
+Damage: 50
+Gold: 10000000
+Current experience: 101
+Level: 100
+Inventory: 
+	Chain mail, Assassin dagger, Assassin dagger, Broad sword

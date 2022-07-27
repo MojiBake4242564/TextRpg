@@ -1,0 +1,19 @@
+Health: 20
+Attack: 10
+Defense: 10
+Damage: 50
+Gold: 650
+Current experience: 101
+Level: 1
+Inventory: 
+	   
+ Broad sword
+ Chain mail
+
+ Broad sword Assassin dagger
+ Health potion
+ Health potion
+ Health potion Assassin dagger
+ Health potion
+
+
